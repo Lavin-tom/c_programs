@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+  int p,a;
+  
+  p=2*(6+9);  
+  printf("The perimeter of the rectangle is: %d cm\n",p);
+  a=6*9;
+  printf("The area of the rectangle is: %d sq cm\n",a);
+  return 0;
+}
